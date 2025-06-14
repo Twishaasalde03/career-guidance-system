@@ -1,0 +1,18 @@
+openai:
+  model: "gpt-3.5-turbo"
+  temperature: 0.7
+  max_tokens: 1500
+  timeout: 30
+
+system:
+  confidence_threshold: 6.0
+  max_career_matches: 5
+  min_preferences_for_recommendation: 3
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+database:
+  career_paths_file: "data/career_database.json"
+  conversations_file: "data/sample_conversations.json"

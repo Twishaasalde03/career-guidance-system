@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Software Developer",
+    "category": "STEM",
+    "description": "Design, develop, and maintain software applications and systems",
+    "required_skills": ["Programming", "Problem-solving", "Analytical thinking"],
+    "personality_traits": ["Detail-oriented", "Logical", "Creative"],
+    "salary_range": "$70k-$150k+",
+    "growth_outlook": "Excellent (22% growth)"
+  },
+  {
+    "name": "Data Scientist",
+    "category": "STEM",
+    "description": "Analyze complex data to help organizations make informed decisions",
+    "required_skills": ["Statistics", "Python", "Machine Learning", "Data Visualization"],
+    "personality_traits": ["Analytical", "Curious", "Patient"],
+    "salary_range": "$80k-$180k+",
+    "growth_outlook": "Excellent (31% growth)"
+  },
+  {
+    "name": "UX/UI Designer",
+    "category": "Arts",
+    "description": "Design user interfaces and experiences for digital products",
+    "required_skills": ["Design thinking", "Prototyping", "User research", "Figma"],
+    "personality_traits": ["Empathetic", "Creative", "Analytical"],
+    "salary_range": "$60k-$130k",
+    "growth_outlook": "Excellent (13% growth)"
+  }
+]
